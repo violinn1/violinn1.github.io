@@ -6,7 +6,7 @@
       "birth_date": "2004-04-29",
       "Position": "Student",
       "International": "Indonesia",
-      "University": "UPNVJ",
+      "Team": "UPNVJ",
       "Poster": "https://violinn1.github.io/Angel.jpeg"
     },
     {
@@ -14,8 +14,8 @@
       "name": "Zhongli",
       "birth_date": "12-31",
       "Position": "Consultant",
-      "Region": "Liyue",
-      "Vision": "Geo",
+      "International": "Liyue",
+      "Team": "Geo",
       "Poster": "https://cdn.oneesports.gg/cdn-data/2022/01/GenshinImpact_Zhongli_drinking_tea-1024x575.webp"
     },
     {
@@ -23,8 +23,8 @@
       "name": "Alhaitam",
       "birth_date": "02-11",
       "Position": "Member of the Haravatat",
-      "Region": "Sumeru",
-      "Vision": "Dendro",
+      "International": "Sumeru",
+      "Team": "Dendro",
       "Poster": "https://cdn.oneesports.gg/cdn-data/2023/01/GenshinImpact_Alhaitham_reading-1-1024x576.jpg"
     },
     {
@@ -33,7 +33,7 @@
       "birth_date": "12-18",
       "Position": "The Iudex of Fontaine",
       "Region": "Fontaine",
-      "Vision": "-",
+      "Team": "-",
       "Poster": "https://staticg.sportskeeda.com/editor/2023/07/363e8-16908019645552-1920.jpg"
     },
     {
@@ -41,8 +41,8 @@
       "name": "Wriothesley",
       "birth_date": "11-23",
       "Position": "Administrator of Fortress of Meropide",
-      "Region": "Fontaine",
-      "Vision": "Cryo",
+      "International": "Fontaine",
+      "Team": "Cryo",
       "Poster": "https://staticg.sportskeeda.com/editor/2023/08/60546-16920208143970-1920.jpg"
     },
     {
